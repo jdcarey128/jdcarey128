@@ -1,5 +1,5 @@
 ## Hi, I'm Joshua 👋
-<div align="center">I'm a high school science teacher &#x1f34e; turned software engineer 	&#128187; and a recent '2008' back-end engineering graduate of <a href="https://turing.io/?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x-ooZ2pSMwpW_SjZGBO2JGSn7BeomX0yvrpSeCvoYb7VzIY-1An66waAolCEALw_wcB">Turing School of Software and Design</a>.  
+<div align="center">I'm a high school science teacher &#x1f34e; turned software engineer 	&#128187; and a recent '2008' back-end engineering graduate of <a href="https://turing.edu/?mc_cid=643fb94dbb&mc_eid=f79a330c41">Turing School of Software and Design</a>.  
 
 <br>
 <br>
