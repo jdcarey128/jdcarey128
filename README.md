@@ -18,7 +18,7 @@ Check out my [resume](https://jdcarey128.github.io/) and my projects below!
 
 
 ### What I am currently learning 
-![](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=black)
 
 
 *Contact:*
