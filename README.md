@@ -18,7 +18,7 @@ Check out my [resume](https://jdcarey128.github.io/) and my projects below!
 
 
 ### What I am currently learning 
-![](https://img.shields.io/badge/-#61DAFB?style=for-the-badge&logo=react&logoColor=#61DAFB)
+![](https://img.shields.io/badge/-react?style=for-the-badge&logo=react&logoColor=#61DAFB)
 
 
 *Contact:*
